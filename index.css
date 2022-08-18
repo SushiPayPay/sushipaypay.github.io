@@ -1,0 +1,70 @@
+#main
+{
+    display: block;
+    margin: 0 auto;
+    padding: 20vh 10vw;
+    text-align: center;
+}
+
+#profile
+{
+    width: 256px;
+    height: auto;
+    border: 10px solid rgba(200, 200, 200, 0.35);
+    margin-bottom: 1vh;
+}
+
+#links
+{
+    margin-top: 1vh;
+}
+
+#home
+{
+    position: fixed;
+    margin: 15px;
+}
+
+#main-fun
+{
+    display: block;
+    margin: 0 auto;
+    padding: 10vh 10vw;
+    text-align: center;
+}
+
+#description-fun
+{
+    padding: 5vh 0vw;
+}
+
+.drawing
+{
+  width: 70%;
+  height: auto;
+  border: 10px solid rgba(200, 200, 200, 0.35);
+  border-radius: 10%;
+}
+
+.drawing-tag
+{
+    padding: 1vh 0vw 3vh 0vw;
+}
+
+body
+{
+    background-color: #2A2A2A;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+a
+{
+    text-decoration: none;
+    color: rgba(255, 140, 0);
+}
+
+a:hover
+{
+    color: rgba(191, 105, 0);
+}
