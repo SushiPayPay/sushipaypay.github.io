@@ -1,0 +1,17 @@
+list ruby versions and current env
+    rvm list
+
+list packages in current ruby env   
+    gem query --local
+
+install gems (packages for ruby)
+    gem install <package_name>
+
+make jekyll site from current dir
+    jekyll new . --force
+
+update gems
+    bundle update
+
+serve website locally
+    bundle exec jekyll serve
